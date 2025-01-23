@@ -11,3 +11,15 @@ PseudoGPT (WebScraperGPT) is an application that allow lower model of OpenAI to 
 
 # Flowchart
 ![alt text](image.png)
+
+# Setup
+
+```bash
+pip install -r requirements.txt
+```
+
+# Run
+
+```bash
+streamlit run app.py
+```
