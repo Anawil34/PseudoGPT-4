@@ -6,7 +6,7 @@ PseudoGPT (WebScraperGPT) is an application that allow lower model of OpenAI to 
 - Can Specify Model role
 - Can Specify Model Response Behavior (can make assumption or not)
 
-# Output
+# Example
 ![alt text](<Screenshot.png>)
 
 # Flowchart
